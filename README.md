@@ -1,2 +1,2 @@
-# defendiceland.is
-website
+# defendiceland
+Defend Iceland
